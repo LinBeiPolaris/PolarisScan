@@ -15,17 +15,22 @@
 
 1.右下加有个加号可以展开和缩小插件UI
 
-![image-20250405232816407](C:\Users\Polaris\AppData\Roaming\Typora\typora-user-images\image-20250405232816407.png)
+![image](https://github.com/user-attachments/assets/cb41df6d-dd57-4532-bddb-990682d3798d)
+
+
 
 展开后的效果
 
-![image-20250405232836999](C:\Users\Polaris\AppData\Roaming\Typora\typora-user-images\image-20250405232836999.png)
+![image](https://github.com/user-attachments/assets/77c8daa9-40da-4964-8a78-d1fe16275dcc)
+
 
 工具模块内包含提取cookie和提取map文件
 
-![image-20250405233535525](C:\Users\Polaris\AppData\Roaming\Typora\typora-user-images\image-20250405233535525.png)
+![image](https://github.com/user-attachments/assets/6ef3b22f-d352-41cc-b7bc-250d89f5d187)
+
 
 域名、电话、api等提取效果：
 
-![image-20250405233619615](C:\Users\Polaris\AppData\Roaming\Typora\typora-user-images\image-20250405233619615.png)
+![Uploading image.png…]()
+
 
