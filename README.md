@@ -31,6 +31,7 @@
 
 域名、电话、api等提取效果：
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1bffacd0-350d-4a31-8815-6dcf41900af3)
+
 
 
