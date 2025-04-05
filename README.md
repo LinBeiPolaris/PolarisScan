@@ -15,13 +15,15 @@
 
 1.右下加有个加号可以展开和缩小插件UI
 
-![image](https://github.com/user-attachments/assets/cb41df6d-dd57-4532-bddb-990682d3798d)
+![image](https://github.com/user-attachments/assets/59a5a066-1d9e-4cf2-8d53-b43fe4e493bc)
+
 
 
 
 展开后的效果
 
-![image](https://github.com/user-attachments/assets/77c8daa9-40da-4964-8a78-d1fe16275dcc)
+![image](https://github.com/user-attachments/assets/511aeb15-e213-45bd-8a83-08ea97cec0ea)
+
 
 
 工具模块内包含提取cookie和提取map文件
