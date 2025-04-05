@@ -1,0 +1,55 @@
+{
+  "manifest_version": 3,
+  "name": "Polaris Scan",
+  "version": "0.4",
+  "description": "A multifunctional web information extraction plugin",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "cookies",
+    "downloads"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": [
+        "content/content.js",
+        "content/ui/ui.js",
+        "content/ui/bubble.js",
+        "content/ui/draggable.js",
+        "content/ui/table.js",
+        "content/extraction/regex.js",
+        "content/extraction/domain.js",
+        "content/extraction/phone.js",
+        "content/extraction/api.js",
+        "content/extraction/path.js",
+        "content/extraction/jsfile.js",
+        "content/dialogs/regexDialog.js",
+        "content/dialogs/highlightDialog.js",
+        "content/dialogs/encodeDecodeDialog.js",
+        "content/dialogs/cookieDialog.js",
+        "content/dialogs/mapDialog.js",
+        "content/dialogs/pentestDialog.js",
+        "content/storage/storage.js"
+      ],
+      "css": ["styles.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["ui.html"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
